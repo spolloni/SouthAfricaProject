@@ -1,0 +1,3 @@
+# SouthAfrica
+
+This repository is a snapshot of a current private repo used to perform replicable data manipulations and analysis for a research project on Public Housing in Gauteng, South Africa. The various steps and operations of the code are structured in the *main.py* file, which calls different python functions and stata routines in the desired order. The *runmain.sh* is a bash script that allows to locally launch *main.py* on an AWS linux server equipped with the same required software. 
